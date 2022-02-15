@@ -29,8 +29,9 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/67441706/153996809-9381c16b-91c6-48b1-a8e7-596f8b122ab7.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/67441706/153997457-435fe832-ba00-410a-b925-f7b4f5e0bc97.png"></code>
 
-<!-- - **Github Stats** :chart_with_upwards_trend::
+<!-- - **Stats** :chart_with_upwards_trend:: -->
 
-![TheTallJerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTallJerry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs)
+<!-- ![](https://github.com/TheTallJerry/github-stats/blob/master/generated/overview.svg) -->
+<!-- ![](https://github.com/TheTallJerry/github-stats/blob/master/generated/languages.svg) -->
 
- -->
+
