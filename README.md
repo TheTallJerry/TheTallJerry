@@ -33,6 +33,6 @@
 
 - **Github Stats** :chart_with_upwards_trend::
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTallJerry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![TheTallJerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTallJerry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs)
 
 
