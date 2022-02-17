@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Jerry <code><img height="80" src="https://user-images.githubusercontent.com/67441706/153996107-36686c41-99b6-40e4-9898-495c4f2f0e4b.png"></code>
+### Hi there 👋 I'm Jerry 
+<!-- <code><img height="80" src="https://user-images.githubusercontent.com/67441706/153996107-36686c41-99b6-40e4-9898-495c4f2f0e4b.png"></code> -->
 
 - **Pronouns** 😄: He/Him
 - **Fun fact** ⚡: To say my drawing is stickman-level is an overstatement. 
