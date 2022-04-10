@@ -7,7 +7,11 @@
 ### Status
 - **Contributing to** :construction_worker::
 
-<code><a href="https://github.com/MarkUsProject/Markus/pulls?q=is%3Apr+author%3ATheTallJerry"><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png">(Linked to my contributions)</a></code>
+<code><a href="https://github.com/MarkUsProject/Markus"><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></a></code>
+
+<a href="https://github.com/MarkUsProject/Markus/pulls?q=is%3Apr+author%3ATheTallJerry">PR(s) for the Codebase</a>
+
+<a href="https://github.com/MarkUsProject/Wiki/pulls?q=is%3Apr+author%3ATheTallJerry">PR(s) for the Documentation</a>
 
 - **Learning** :microscope::
 
