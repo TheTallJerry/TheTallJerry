@@ -3,7 +3,7 @@
 
 - **Pronouns** 😄: He/Him
 - **Fun fact** ⚡: To say my drawing is stickman-level is an overstatement. 
-- **Hobbies** :memo:: 🥁🎷🎹🎮
+
 ### Status
 - **Contributing to** :construction_worker::
 
