@@ -8,7 +8,7 @@
 
 <code><a href="https://github.com/MarkUsProject/Markus"><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></a></code>
 
-The above image is clickable and linked to the (open sourced) project's README. In short, Markus is an online grading and assignment submission platform made in house by UofT professors and used in several universities. I've used it many times myself. Since January 2022 I've been contributing to Markus's codebase in the form of volunteering, alongside other students, under the supervision of Professor David Liu. I see it as a way of giving back to the community :) 
+The above image is clickable and linked to the (open sourced) project's README. In short, Markus is an online grading and assignment submission platform made in house by UofT professors and used in several universities. I've used it many times myself. Since January 2022 I've been contributing to Markus's codebase in the form of volunteering, alongside other students, under the supervision of Professor David Liu. I see it as an inexpensive way of giving back to the community :) 
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3ATheTallJerry+user%3AMarkUsProject">Here</a> is a list of all my past and current PRs. 
 
