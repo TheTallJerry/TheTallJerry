@@ -5,8 +5,6 @@
 
 <code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
 
-<code><a href="https://github.com/MarkUsProject/Markus">Project Repo</a></code>
-
 <code><a href="https://github.com/pulls?q=is%3Apr+author%3ATheTallJerry+user%3AMarkUsProject">My Pull Requests (PRs)</a></code>
 
 Markus is an online grading and assignment submission platform made in house by UofT professors and used in several universities. I've used it many times myself. 
