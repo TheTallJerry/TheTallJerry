@@ -9,5 +9,14 @@
 
 Markus is an online grading and assignment submission platform made in house by UofT professors and used in several universities. I've used it many times myself. 
 
-For the 8 months from January 2022 to August 2022, and the 4 months from September 2023 to December 2023, I contributed to Markus's codebase in the form of volunteering, alongside other students, under the supervision of Professor David Liu. I see it as an inexpensive way of giving back to the community :) 
+From January 2022 to August 2022, and from September 2023 to December 2023.
 
+Memory Viz - Memory Model Diagrams
+
+<code><a href="https://github.com/pulls?q=is%3Apr+author%3ATheTallJerry+user%3Adavid-yz-liu">My Pull Requests (PRs)</a></code>
+
+MemoryViz generates memory model diagrams for Python code in the style of CSC110/111/148 at the University of Toronto. 
+
+From January 2024 to April 2024.
+
+These open source work were undertaken in the form of volunteering, alongside other students, under the supervision of Professor David Liu. I see open source contributions as an inexpensive way of giving back to the community :) and also a ton of fun! 
