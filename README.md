@@ -3,7 +3,7 @@
 
 ### **Contributed to** :construction_worker::
 
-<code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
+#### Markus
 
 <code><a href="https://github.com/pulls?q=is%3Apr+author%3ATheTallJerry+user%3AMarkUsProject">My Pull Requests (PRs)</a></code>
 
@@ -11,7 +11,7 @@ Markus is an online grading and assignment submission platform made in house by 
 
 From January 2022 to August 2022, and from September 2023 to December 2023.
 
-Memory Viz - Memory Model Diagrams
+#### Memory Viz - Memory Model Diagrams
 
 <code><a href="https://github.com/pulls?q=is%3Apr+author%3ATheTallJerry+user%3Adavid-yz-liu">My Pull Requests (PRs)</a></code>
 
